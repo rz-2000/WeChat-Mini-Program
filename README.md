@@ -1,2 +1,3 @@
-# WeChat-Mini-Program
-2019 Spring Semester Team Work
+﻿任务清单
+
+微信小程序课程作业
